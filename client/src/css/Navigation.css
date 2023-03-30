@@ -1,0 +1,80 @@
+.btn-in {
+    background-color: transparent;
+    --bs-btn-border-color:white;
+    color: white;
+    --bs-btn-border-radius:35px;
+    --bs-btn-focus-box-shadow:red;
+    margin-right: 1em;
+    width: 148px;
+    height: 63px;
+    font-size: 1.3rem;
+    
+  }
+.btn-in:hover{
+    color:white;
+    background-color: #093838;
+    border-color: aliceblue;
+}
+.btn-out{
+    background-color: #03ABAB;
+    color: white;
+    --bs-btn-border-radius: 35px;
+       width: 205px;
+       height: 63px;
+       font-size: 1.6rem;
+}
+.btn-out:hover{
+    color: white;
+    background-color: #098282;
+}
+
+.nav-links{
+    color:#A0ABAB;
+    margin-left: 1.5em;
+    padding-top: 1.3em;
+}
+.nav-brand{
+    color:white;
+}
+.navbar-toggler-icon{
+    background-image: url(../lib/icons/menu.png);
+    background-color: #03ABAB;
+    border-radius: 3px;
+}
+.offcanvas-body {
+    background-color: #010F0F;
+    
+}
+.offcanvas-title{
+    background-color: #010F0F;
+   
+}
+.offcanvas-header{
+   
+    background-color: #010F0F;
+}
+.btn-close{
+    background-color: #03ABAB;
+}
+.navbar-light{
+    border-color: transparent;
+    background-color: #010F0F;
+}
+.navbar-expand-sm{
+    border-color: transparent;
+    background-color: #010F0F;
+}
+.bg-black{
+    
+    border-color: transparent;
+    background-color: #010F0F;
+}
+.navbar{
+    border-color: transparent;
+    
+    background-color: #010F0F;
+}
+.nav{
+    border-color: transparent;
+    background-color: #010F0F;
+}

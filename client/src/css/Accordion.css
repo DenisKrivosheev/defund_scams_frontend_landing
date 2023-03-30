@@ -1,0 +1,26 @@
+.faq{
+    background-color: #001313;
+}
+.pt{
+    margin-top: 10px;
+}
+.accordion {
+    --bs-accordion-btn-icon: url('../lib/icons/open.png');
+    --bs-accordion-btn-active-icon: url('../lib/icons/open.png');
+    --bs-accordion-active-color:#ffffff;
+    --bs-accordion-border-color:transparent;
+    --bs-accordion-bg: #001313;
+    --bs-accordion-btn-color:#ffffff;
+    --bs-accordion-color: rgb(255, 255, 255);
+    --bs-accordion-active-bg:transparent;
+    --bs-accordion-btn-focus-box-shadow:transparent;
+    --bs-accordion-active-color:rgb(255, 255, 255);
+
+    --bs-accordion-border-radius:25px;
+    --bs-accordion-inner-border-radius:25px;
+
+}
+.faqtext{
+    color:#00BEBE;
+    text-align: center;
+}

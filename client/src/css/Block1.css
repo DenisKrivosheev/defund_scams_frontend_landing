@@ -1,0 +1,82 @@
+.block1-bg{
+    background-color: rgba(0, 180, 180, 0.029);
+}
+.block1-txt{
+    color: aliceblue;
+    text-align: right;
+}
+.block1-txt-white{
+    color: white;
+    
+}
+.block-1txth{
+    font-size: 5.3rem;
+}
+.block1-txt-grey{
+    color: #9CABAB;
+    
+}
+
+.blc1-txt-pt{
+    padding-top: 1.5vh;
+}
+
+
+.block-1-img{
+    border-radius: 50%;
+    
+    padding-top: 0.7vh;
+    
+}
+.card-block1{
+    
+    background-color: transparent;
+    border:none;
+}
+.card-body-block1{
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+.block1-padding{
+    padding-left: 0.3vh;
+}
+.bl1-pad-left{
+    padding-left: 1vh;
+}
+.bl1-pad-right{
+    padding-right: 1vh;
+}
+.bl1-pad-top{
+    padding-top: 1vh;
+}
+
+.btn-b1in {
+    background-color: transparent;
+    --bs-btn-border-color:white;
+    color: white;
+    --bs-btn-border-radius:30px;
+    --bs-btn-focus-box-shadow:red;
+    margin-right: 1em;
+    width: 148px;
+    height: 63px;
+    font-size: 1.5rem;
+    
+  }
+.btn-b1in:hover{
+    color:white;
+    background-color: #093838;
+    border-color: aliceblue;
+}
+.btn-b1out{
+    background-color: #03ABAB;
+    color: white;
+    --bs-btn-border-radius: 30px;
+    width: 205px;
+    height: 63px;
+    font-size: 1.5rem;  
+}
+.btn-b1out:hover{
+    color: white;
+    background-color: #098282;
+}

@@ -1,0 +1,148 @@
+@import url('../lib//font/style.css');
+@import url('../lib/font/gilroymedium/style.css');
+
+body{
+    font: 1em Gilroy;
+    
+}
+.mrsc{
+    padding-left: 0.6vh;
+}
+.bg{
+    
+    background-color: #001313;
+    }
+
+.bg2{
+    background-color: #010F0F ;
+}
+.fw{
+   font-weight: bolder; 
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 0px;
+ }
+
+.message {
+    padding-left: 0.2em;
+}
+.btn-recover{
+    background-color: #03ABAB;
+    color: white;
+    border-color: transparent;
+    --bs-btn-border-radius: 20px;
+    margin-right: 5px;
+}
+.btn-more{
+    background-color: transparent;
+    color: white;
+    --bs-btn-border-radius: 20px;
+    border-color: white;
+    margin-left: 0.5em;
+}
+.btn-more:hover{
+    background-color: #093838;
+    border-color: white;
+}
+
+.btn-recover:hover{
+    border-color: transparent;
+    background-color: #093838;
+}
+
+.video{
+    border-radius: 25px;
+}
+.txt-title{
+    padding-left: 0.2em;
+    padding-top: 0.1em;
+    color: white;
+
+}
+.txt-subtitle{
+    padding-left: 0.2em;
+    color:#9CABAB;
+}
+.txttp{
+    padding-top: 0.5em;
+    
+}
+
+.txtlp{
+    padding-left: 0.5em;
+}
+.revimg{
+    padding-top: 0.5em;
+}
+.card-part1{
+    background-color: transparent;
+}
+
+
+.aboutbtn{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    --bs-btn-border-radius: 15px;
+    width: 53vw;
+}
+.aboutbtn:hover{
+    color:white;
+    background-color: #093838;
+    border-color: white;
+}
+.aboutvid{
+
+    width: 53vw; 
+    height: 25vw;
+ 
+}
+.carousel-indicators{ visibility: hidden; }
+.carousel-control-prev,
+.carousel-control-next {
+    margin-left: -5.9vw;
+    margin-right: -5.9vw;
+   
+}
+.carousel-control-prev-icon{
+    background-image:url('../lib/icons/left.png')
+}
+.carousel-control-next-icon{
+    background-image:url('../lib/icons/right.png')
+}
+.companies-img{
+    
+    margin: 0 auto;
+    max-width: 90%;
+    
+}
+.mt-7{
+    margin-top: 7vw;
+}
+.pr{
+    position: relative;
+}
+.compbg{
+    background-color: #001313;
+}
+.ptb{
+    padding-top: 9vh;
+}
+.videocarsel{
+    margin-top: 10vh;
+}
+
+
+
+   
+
+.carousel-control-prev-icon-2 {
+    
+    margin-top: 12vh;
+}
+
+
+
+

@@ -1,0 +1,24 @@
+.review-txt{
+    color: white;
+    padding-top: 15px;
+    font: 1em Gilroymed ;
+}
+.review-card{
+    width: 20rem;
+    background-color: #001515;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    border-radius: 15px;
+    
+}
+.star{
+    margin-top: 0.3rem;
+    width: 1rem;
+    height: 0.9rem;
+}
+.revp{
+    color: white;
+    padding-top: 3px;
+    padding-left: 10px;
+}
+

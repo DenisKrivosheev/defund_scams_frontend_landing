@@ -1,0 +1,17 @@
+.footer-link{
+    text-decoration: none;
+    color: #EEEEEE;
+}
+.footer-txt-white{
+    color: white;
+}
+.footer-logo{
+    width: 10rem; 
+    height: 1.8rem;
+}
+.fnt-medium{
+    font: 1em Gilroymed ;
+}
+
+/*        width: 10vw; 
+    height: 1.8vh;*/

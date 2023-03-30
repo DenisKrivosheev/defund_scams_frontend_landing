@@ -1,0 +1,71 @@
+.txth1{
+    text-align: center;
+    color: white;
+    font-size: 3.5em;
+    
+}
+.fntb{
+    font: 1em Gilroy ;
+}
+.textcolw{
+    color:white;
+    position: relative;
+    
+}
+.textcolbl{
+    color:#00BEBE;
+    position: relative;
+}
+.texcolg{
+    color: #9CABAB;
+    position: relative;
+}
+.txt{
+    color: #9CABAB;
+    text-align: center;
+}
+.counter{
+    background: rgba(156, 171, 171, 0);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(100px);
+    -webkit-backdrop-filter: blur(100px);
+
+}
+.background_img{
+    position: absolute;
+    
+    width: 79em;
+    height: 63em;
+    margin-right: 2em;
+    
+    
+}
+.textbg{
+    background-color: transparent;
+}
+.txtcolpt{
+    padding-top: 1em;
+}
+.txtcolpb{
+    padding-bottom: 3em;
+}
+.ch1{
+    font-size: 5.2rem;
+    
+}
+.mt-6{
+    margin-top: 9vw;
+}
+.hacker{
+    position: absolute;
+    margin-top: 13vh;
+    height: 90vh;
+    margin-right: 15vw;
+    
+}
+.counter{
+    margin-top: 6.5em;
+    position: relative;
+    
+}
